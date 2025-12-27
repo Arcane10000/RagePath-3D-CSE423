@@ -43,3 +43,11 @@ This project was developed collaboratively as part of a group submission for CSE
 2. Run the main Python file:
    ```bash
    python main.py
+## 🖼 Screenshots
+
+### Gameplay & Obstacles
+![Obstacle Course](screenshots/obstacle.png)
+![Obstacle Variations](screenshots/obstacles%202.png)
+
+### Game Reset State
+![Reset Screen](screenshots/reset.png)
